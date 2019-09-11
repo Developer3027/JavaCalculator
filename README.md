@@ -6,7 +6,7 @@ This calculator is built with a html base, css style, and vanilla javascript to 
 
 **Requirement**
 
-![Calculator](./img/JS_calc.jpg "JS Calculator")
+![Calculator](img/JS_calc.jpg "JS Calculator")
 
 * The calculator should look like the above image
 * The calculator should function like a normal calculator
